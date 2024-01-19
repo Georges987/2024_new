@@ -97,7 +97,7 @@ class CreateParticles {
 
 		this.data = {
 
-			text: 'Félicitation\nLaravel Developer',
+			text: 'Happy New\nYear 2024',
 			amount: 1500,
 			particleSize: 1,
 			particleColor: 0xffffff,
